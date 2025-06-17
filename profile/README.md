@@ -50,12 +50,6 @@ Wir freuen uns über jede Form der Mitwirkung – ob Code, Feedback oder Ideen!
 
 ---
 
-## 🍿 Fun Fact
-
-> Bei uns im Team ist der beliebteste „Hackersnack“: Müsli mit Honig & Hafermilch. ✨
-
----
-
 ## 🧠 Lizenz & Organisation
 
 Alle Repositories unter **GPL-3.0 License**
