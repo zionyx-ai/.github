@@ -47,6 +47,7 @@ Wir freuen uns über jede Form der Mitwirkung – ob Code, Feedback oder Ideen!
 * 📘 [Scriptora Hauptdokumentation](https://github.com/zionyxs/scriptora)
 * 📦 [README für alle Microservices](https://github.com/zionyxs/scriptora/blob/main/README.md)
 * 🛠️ Starter-Templates: [README-Service-Template](https://github.com/zionyxs/README-Service-Template)
+* 🔗 [Anleitung zum lokalen Start (Windows)](https://github.com/zionyxs/scriptora/blob/main/.github/docs/Anleitung.md)
 
 ---
 
@@ -67,3 +68,11 @@ Bei Fragen oder Interesse an Zusammenarbeit:
 ---
 
 **Zionyxs – wo Glaube, Stimme und Technologie sich begegnen.**
+
+
+
+
+
+
+
+
