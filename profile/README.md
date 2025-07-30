@@ -54,7 +54,7 @@ Wir freuen uns über jede Form der Mitwirkung – ob Code, Feedback oder Ideen!
 ## 🧠 Lizenz & Organisation
 
 Alle Repositories unter **GPL-3.0 License**
-Verwalter: **Zionyxs (Caleb Gyamfi)**
+Verwalter: **Zionyxs**
 
 ---
 
