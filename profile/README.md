@@ -44,10 +44,10 @@ Wir freuen uns über jede Form der Mitwirkung – ob Code, Feedback oder Ideen!
 
 ## 👩‍💻 Nützliche Ressourcen
 
-* 📘 [Scriptora Hauptdokumentation](https://github.com/zionyxs/scriptora)
-* 📦 [README für alle Microservices](https://github.com/zionyxs/scriptora/blob/main/README.md)
-* 🛠️ Starter-Templates: [README-Service-Template](https://github.com/zionyxs/README-Service-Template)
-* 🔗 [Anleitung zum lokalen Start (Windows)](https://github.com/zionyxs/scriptora/blob/main/.github/docs/Anleitung.md)
+<!-- * 📘 [Scriptora Hauptdokumentation](https://github.com/zionyxs-ai/scriptora)
+* 📦 [README für alle Microservices](https://github.com/zionyxs-ai/scriptora/blob/main/README.md)
+* 🛠️ Starter-Templates: [README-Service-Template](https://github.com/zionyx/README-Service-Template) -->
+* 🔗 [Anleitung zum lokalen Start (Windows)](https://github.com/zionyx-ai/.github/blob/main/docs/Anleitung.md)
 
 ---
 
